@@ -24,7 +24,7 @@
 <br>
    </br>
 <p align="center">
-   <b>FLASHING IMAGES AND BRIGHT COLORS BELOW!!!</b>
+   <b>README ART BY @DoodleDorky ON TWITTER</b>
 </p>
 <p align="center">
 <img width="100" src="https://i.ibb.co/p6PJ4gHk/114516688-tcs.png" />
