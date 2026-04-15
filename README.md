@@ -30,7 +30,6 @@
 <img width="100" src="https://i.ibb.co/p6PJ4gHk/114516688-tcs.png" />
 <img width="100" src="https://i.ibb.co/Qv5ZmzBm/vuic5c.png" />
 <img width="100" src="https://i.ibb.co/1GwRfzy0/b6.png" />
-   <img width="100" src="https://i.ibb.co/GQ4H7kh1/d5fms5r-7c018def-cf23-421c-83b9-5784dd0eec20.png" />
    <img width="100" src="https://i.ibb.co/GQZ93sYc/d28.png" />
    <img width="100" src="https://i.ibb.co/GfR03jSX/112150051-gy-K.gif" />
    <img width="100" src="https://i.ibb.co/QF6Rsqxw/dcixdwe-475531ea-0e0e-47df-8fcd-4286ba3fe562.png" />
